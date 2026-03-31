@@ -1,4 +1,5 @@
 Multi Client Chatting using TCP & UDP (ns-3)
+
 Description
 This project demonstrates multi-client communication using TCP and UDP protocols in the ns-3 network simulator. It simulates a server interacting with multiple clients, where the server processes incoming messages and sends acknowledgements.
 
@@ -7,6 +8,7 @@ To implement multi-client communication using TCP and UDP
 To understand connection-oriented and connectionless protocols
 To perform server-side calculations (timestamp, packet size)
 To observe basic network performance
+
 Technologies Used
 ns-3 Network Simulator
 C++
